@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shubhangi Shetake</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 </div>
-<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="40%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi0504&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi0504" /> </p>
 
 - 🔭 I’m currently working on **Operations and Processes Degitalization With ERP**
