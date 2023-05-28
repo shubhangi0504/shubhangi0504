@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shubhangishetake671@gmail.com**
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/shubhangi-shetake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhangi-shetake/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhangi0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhangi0504" height="30" width="40" /></a>
 </p>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
