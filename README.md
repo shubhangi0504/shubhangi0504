@@ -4,8 +4,7 @@
 **shubhangi0504/shubhangi0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<!-- ![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpyKhFWVrwCKWh8B2u78s7YoTHSlZksGI4oQ&usqp=CAU) -->
-
+<!-- ![Header](./header-image.png) -->
 <div >
 <h1 align="center">Hi 👋, I'm Shubhangi Shetake</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
@@ -19,9 +18,9 @@
     
    </p>
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" raw="true" width="450" height="300" />
-
-</div>
 <br><br>
+</div>
+
 - 🔭 I’m currently working on **Operations and Processes Degitalization With ERP**
 
 - 🌱 I’m currently learning **MicroServices Architecture with ASP.NET**
