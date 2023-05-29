@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <div >
 <h1 align="center">Hi 👋, I'm Shubhangi Shetake</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-</div>
-<p align="center">
+    <p align="center">
     <a href="https://shubhangishetake15.wixsite.com/my-site" target="blank">
      <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
     </a>
@@ -27,6 +26,10 @@ Here are some ideas to get you started:
     </a>
     
    </p>
+<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" raw="true" width="450" height="300" />
+
+</div>
+
 <!-- <div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="40%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi0504&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi0504" /> </p> -->
 
@@ -56,7 +59,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangi0504&show_icons=true&locale=en&layout=compact" alt="shubhangi0504" /></p>
