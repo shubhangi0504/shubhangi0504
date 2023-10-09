@@ -21,11 +21,11 @@
 <br><br>
 </div>
 
-- 🔭 I’m currently working on **Operations and Processes Degitalization With ERP**
+- 🔭 I’m currently working at **Neilsoft Pvt. Ltd. Pune**
 
-- 🌱 I’m currently learning **MicroServices Architecture with ASP.NET**
+- 🌱 I’m currently learning **Django Application Development**
 
-- 💬 Ask me about **Angular, ASP.NET, MySQL, Java, Bootstrap, HTML5, CSS3**
+- 💬 Ask me about **Angular, ASP.NET, MySQL, Postgres, Java, Python, Bootstrap, HTML5, CSS3**
 
 - 📫 How to reach me **shubhangishetake671@gmail.com**
 <br><br><br>
