@@ -21,7 +21,7 @@
 <br><br>
 </div>
 
-- 🔭 I’m currently working at **Neilsoft Pvt. Ltd. Pune**
+- 🔭 I’m currently working at **Neilsoft Pvt. Ltd. Pune.**
 
 - 🌱 I’m currently learning **Django Application Development**
 
