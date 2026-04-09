@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working at **Neilsoft Pvt. Ltd. Pune.**
 
-- 🌱 I’m currently learning **Machine Learning Algorithums.**
+- 🌱 I’m currently learning **Machine Learning Algorithms.**
 
 - 💬 Ask me about **Angular, ASP.NET, MySQL, Postgres, Java, Python, Bootstrap, HTML5, CSS3**
 
