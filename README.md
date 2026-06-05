@@ -6,7 +6,7 @@
 -->
 <!-- ![Header](./header-image.png) -->
 <div >
-<h1 align="center">Hi 👋, I'm Shubhangi Shetake</h1>
+<h1 align="center">Hi 👋, I'm Shubhangi Chavan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
     <p align="center">
     <a href="https://shubhangishetake15.wixsite.com/my-site" target="blank">
