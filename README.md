@@ -25,9 +25,9 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms.**
 
-- 💬 Ask me about **Angular, ASP.NET, MySQL, Postgres, Java, Python, Bootstrap, HTML5, CSS3**
+- 💬 Ask me about **Angular, ASP.NET, MySQL, Postgres, Python, Bootstrap, HTML5, CSS3**
 
-- 📫 How to reach me **shubhangishetake671@gmail.com**
+- 📫 How to reach me **shubhangichavan2810@gmail.com**
 <br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
